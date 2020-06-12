@@ -34,5 +34,7 @@ int count_symbol() {
         }
     }
     printf("tab_count = %d,blank_count = %d,change_line_count = %d\n", tab_count, blank_count, chang_line);
+
+
     return 0;
 }
